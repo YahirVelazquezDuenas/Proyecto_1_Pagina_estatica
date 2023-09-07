@@ -1,6 +1,6 @@
 ## Proyecto uno: Página estática
 
-Este es mi primer proyecto de la clase de Programación para internet
+Este es mi primer proyecto de la clase de Programación para internet.
 
 ## Características
 
@@ -9,3 +9,8 @@ Este es mi primer proyecto de la clase de Programación para internet
 - Contiene información sobre mi portafolio personal.
 - Diseño limpio y atractivo.
 - Se trata de mantener poca información para una lectura amigable.
+
+## Licencia
+
+Por el momento no tengo una licencia disponible, pero espero no surgan problemas. &#128512; <!-- 😄 -->
+
