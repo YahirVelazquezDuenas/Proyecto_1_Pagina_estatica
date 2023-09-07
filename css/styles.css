@@ -135,7 +135,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: calc(1.475rem + 2.7vw);
-  color:#6f42c1;
+  color:#d63384;
 }
 @media (min-width: 1200px) {
   h2, .h2 {
@@ -184,6 +184,18 @@ p {
   margin: 30px;
 }
 
+.derechos {
+  color: black;
+  font-style: italic;
+}
+
+hr {
+
+  color:var(--bs-purple);
+  border-width: 0.5rem;
+
+}
+
 abbr[title] {
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted;
@@ -201,6 +213,7 @@ address {
 ol,
 ul {
   padding-left: 2rem;
+  color: #000;
 }
 
 ol,
